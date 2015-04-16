@@ -1,0 +1,7 @@
+#proxy ip username password配置列表
+124.238.192.53 8000
+#124.238.192.53 8000 admin zhou1234
+124.238.192.53 8888 admin elint
+127.0.0.1 9999 admin admin
+127.0.0.1 9999 admin zhou1234
+

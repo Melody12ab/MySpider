@@ -1,0 +1,21 @@
+2014-12-28 00:19:41,440 [main] INFO  [com.weibo.sina.cookie.person.v2.GrabAttentionInfoV2] - http://www.weibo.com/1266321801关注列表抓取完毕,抓取到的attention_list的大小是--------20
+2014-12-28 00:19:41,446 [main] INFO  [com.weibo.sina.cookie.person.v2.GrabAttentionInfoV2] - 即将抓取http://www.weibo.com/1266321801关注列表的微博用的个人信息
+2014-12-28 12:34:55,100 [main] INFO  [com.weibo.sina.cookie.person.v2.GrabPersonInfoV2] - person info-----------PersonInfo [accountType=famous, address=北京 朝阳区, blogUrl=null, brithday=null, domain_id=null, edu=null, email=null, fansNum=75802242, findPerson=null, grab_method=cookies, gzNum=360, id=null,  msn=null, name=姚晨, pic_url=null, qq=null, realName=null, renZh=1, sex=2, summary=null, tags=null, uid=1266321801, uid_long=1266321801, updateTime=Sun Dec 28 12:34:55 CST 2014, url=http://www.weibo.com/yaochen, verifyInfo=演员，代表作：《武林外传》《潜伏》《离婚律师》等, verifyType=person, wbNum=7500, weiboType=1, work=null]
+2014-12-28 12:37:16,203 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 个人版---正在抓取http://www.weibo.com/yaochen的第1页
+2014-12-28 12:37:28,716 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:28,758 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:28,854 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:28,939 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:29,019 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:29,153 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:29,200 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:29,253 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:29,295 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:29,351 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:29,400 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:29,453 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:29,497 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:29,637 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:37:29,678 [main] INFO  [com.weibo.sina.cookie.person.GrabContentInfo] - 保存一条语句时出现错误，暂放弃该条数据!
+2014-12-28 12:45:39,345 [main] INFO  [com.weibo.sina.cookie.person.v2.GrabAttentionInfoV2] - http://www.weibo.com/1266321801关注列表抓取完毕,抓取到的attention_list的大小是--------97
+2014-12-28 12:45:39,346 [main] INFO  [com.weibo.sina.cookie.person.v2.GrabAttentionInfoV2] - 即将抓取http://www.weibo.com/1266321801关注列表的微博用的个人信息

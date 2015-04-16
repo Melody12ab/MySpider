@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="WeiBoGatherEngine_v4">
+        <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/weibo.sina"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/weibo.qq"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/resources.qq"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/weibo.common"/>
+        <property name="context-root" value="/WeiBoGatherEngine_v4"/>
+        <property name="java-output-path" value="/WeiBoGatherEngine_v4/WebRoot/WEB-INF/classes"/>
+        <property name="me-merge-utility-modules" value="true"/>
+    </wb-module>
+</project-modules>

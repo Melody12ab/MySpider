@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jaxws="http://cxf.apache.org/jaxws"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans 
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://cxf.apache.org/jaxws 
+        http://cxf.apache.org/schemas/jaxws.xsd
+        http://www.springframework.org/schema/tx 
+        http://www.springframework.org/schema/tx/spring-tx-3.0.xsd 
+        http://www.springframework.org/schema/jee 
+        http://www.springframework.org/schema/jee/spring-jee-3.0.xsd 
+        http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context-3.0.xsd
+        ">
+	<import resource="classpath:META-INF/cxf/cxf.xml" />
+	<import resource="classpath:META-INF/cxf/cxf-extension-soap.xml" />
+	<import resource="classpath:META-INF/cxf/cxf-servlet.xml" />
+	<!-- 发布服务   for mbm  -->
+	<jaxws:endpoint id="GroupingService" implementor="#groupingService"
+		address="/GroupingService" />
+	<jaxws:endpoint id="SearchService" implementor="#searchService"
+		address="/SearchService" />
+	<jaxws:endpoint id="TaskService" implementor="#taskService"
+		address="/TaskService" />
+	<jaxws:endpoint id="SystemOperatorService" implementor="#systemOperatorService"
+		address="/SystemOperatorService" />
+
+	<!-- 发布服务   for dratio  -->
+	<jaxws:endpoint id="SearchService4Dratio" implementor="#searchService4Dratio"
+		address="/SearchService4Dratio" />
+
+	<!-- 发布服务   for LingJoin  -->
+	<jaxws:endpoint id="SearchService4LingJoin" implementor="#searchService4LingJoin"
+		address="/SearchService4LingJoin" />
+	<jaxws:endpoint id="TaskService4LingJoin" implementor="#taskService4LingJoin"
+		address="/TaskService4LingJoin" />
+</beans>
+

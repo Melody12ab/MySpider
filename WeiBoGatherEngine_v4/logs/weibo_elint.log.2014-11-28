@@ -1,0 +1,1349 @@
+2014-11-28 21:13:12,821 [main] INFO  [com.weibo.utils.sina.GetUserCookie] - 第一次得到的cookie------------------------tgc=TGT-MzA1NzQ2NzE2Mw==-1417180410-gz-3AF0498DAF2C129C3C912C826E69DCFF;;;SUS=SID-3057467163-1417180410-GZ-g1s6a-a7c2904589ace3ddc4311b1ae5a6a5d7;;SUE=es%3D50e5dd9e2d4fd2b7cada954099ad9001%26ev%3Dv1%26es2%3D7999df56114c0f8a7f462effaac31e06%26rs0%3De%252Fj55IYDLnTps65%252Bo%252FibOVoSrQrlejaQ0ds3IfyQfBJ1JIAqAsJHDfKEaG7lA0hwl4PljEDuuawdIMnHrIewW%252Bsc%252F5DSzkYWXB0v751Aec6P3SOqEwku34EqOM2nNGNSr0VjUxE%252BcPdlA38I5Koo4QG6QEQeBO1s2I7IFA9NPnU%253D%26rv%3D0;;SUP=cv%3D1%26bt%3D1417180410%26et%3D1417266810%26d%3D40c3%26i%3Da5d7%26us%3D1%26vf%3D0%26vt%3D0%26ac%3D2%26st%3D0%26lt%3D1%26uid%3D3057467163%26user%3Dda04xiang%2540126.com%26ag%3D4%26name%3Dda04xiang%2540126.com%26nick%3Dda04xiang%26sex%3D1%26ps%3D0%26email%3D%26dob%3D%26ln%3Dda04xiang%2540126.com%26os%3D%26fmp%3D%26lcp%3D;SUB=_2A255fASqDeTxGeVO7lUV9inNzT-IHXVaCqDirDV_PUNbuNBeLVajkW8XWyl2y3cnjy8IkfYw9igGCqmonw..;;SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWwqiSB0x6ks32W94_jMKZl;ALC=ac%3D2%26bt%3D1417180410%26cv%3D5.0%26et%3D1448716410%26uid%3D3057467163%26vf%3D0%26vt%3D0%26es%3Dd39e23bcc135150cedacca26f60e731d;;;ALF=1448716410;LT=1417180410;;sso_info=v02m6alo5qztaSYk4C0noaloZumnKadlqWkj5OMsI2TnLSNo5yxjaOMwA==;;wvr=5; un=da04xiang@126.com;myuid=3057467163;SinaRot_wb_r_topic=39;UV5PAGE=usr513_90; UV5=usr319_182;SSOLoginState=1417180410;;;_s_tentry=-
+2014-11-28 21:13:14,500 [main] INFO  [com.weibo.utils.sina.GetUserCookie] - user cookie------------------------SUS=SID-3057467163-1417180412-GZ-hd9yx-81c6e75202a6246852083143687aaf0d; path=/; domain=.weibo.com;SUS=SID-3057467163-1417180412-GZ-hd9yx-81c6e75202a6246852083143687aaf0d; path=/; domain=.weibo.com; httponly;SUE=es%3De7235e5ef3c0093b178a03e04ada581f%26ev%3Dv1%26es2%3D4678db5ddd793b9bd36eabb656564c20%26rs0%3DV8t3KznHQOJmdOLoq1DSr%252FybmGffziJCVSry%252BlcHHfBWWJ59qOB67y4BcgKFKe1bJ0jCKrmT2ywRsztdPJg28mDEMGSndA6stqWbrJfUO%252FBWJqdkINUg7XuJ2L6EtLyqVt4ZUslVpXOrRiziM7OI5BqgKl%252FymiKaQB460UmGQJk%253D%26rv%3D0;path=/;domain=.weibo.com;Httponly;SUP=cv%3D1%26bt%3D1417180412%26et%3D1417266812%26d%3Dc909%26i%3Daf0d%26us%3D1%26vf%3D0%26vt%3D0%26ac%3D2%26st%3D0%26uid%3D3057467163%26name%3Dda04xiang%2540126.com%26nick%3Dda04xiang%26fmp%3D%26lcp%3D;path=/;domain=.weibo.com;SUB=_2A255fASsDeTxGeVO7lUV9inNzT-IHXVaCqDkrDV8PUNbuNBeLRbDkW8_OMIvUWqWXK6kVnKo-ErlMiJVhQ..; path=/; domain=.weibo.com; httponly;SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWwqiSB0x6ks32W94_jMKZl5JpX5K2t; expires=Saturday, 28-Nov-15 13:13:32 GMT; path=/; domain=.weibo.com;SRT=E.vAfqJD43iDR3JORqvZSQJXmBvXvCvXM45GO0vnEABvzvvv4mVc_eRnVmPGjQ2vfCvvAivOmKvAmLvAmMvXvCmXmC*B.vAflW-P9Rc0lR-ykADvnJqiQVbiRVPBtS!r3JZPQVqbgVdWiMZ4siOzu4DbmKPWQW3E94rzn5DShVqJpPq!rQ-9iNs9ji49ndDPIJeA7; expires=Monday, 25-Nov-24 13:13:32 GMT; path=/; domain=.passport.weibo.com; httponly;SRF=1417180412; expires=Monday, 25-Nov-24 13:13:32 GMT; path=/; domain=.passport.weibo.com;ALF=1448716410; expires=Sat, 28-Nov-2015 13:13:30 GMT; path=/; domain=.weibo.com;SSOLoginState=1417180412; path=/; domain=.weibo.com;myuid=3057467163;SinaRot_wb_r_topic=39;UV5PAGE=usr511_179;; UV5=usr319_182;;SSOLoginState=1417180410;;UOR=,,login.sina.com.cn;;_s_tentry=login.sina.com.cn;
+2014-11-28 21:13:14,500 [main] INFO  [com.weibo.utils.sina.GetUserCookie] - 首次获取cookie成功!
+2014-11-28 21:19:37,449 [main] INFO  [com.weibo.sina.cookie.person.v2.GrabPersonInfoV2] - renZhInfo---<div class="PCD_header">
+				<div class="pf_wrap" layout-shell="false" node-type="cover_wrap">
+				<div class="cover_wrap" node-type="cover"  style="background-image:url(http://img.t.sinajs.cn/t5/skin/public/covervip/2020.jpg)"  cover-type="1">
+				</div>
+				<div class="shadow  S_shadow" layout-shell="false">
+						<div class="pf_photo" node-type="photo">
+						<p class="photo_wrap">
+						 						 	<img src="http://tp2.sinaimg.cn/1266321801/180/5706280951/0" alt="姚晨" class="photo">
+						 						
+						</p>
+							<a href="http://verified.weibo.com/verify" class="icon_bed"><em title= "演员，代表作：《武林外传》《潜伏》《离婚律师》等" class="W_icon icon_pf_approve" suda-uatrack="key=profile_head&value=vuser_guest"></em></a>						</div>
+						
+						<div class="pf_username">
+						<span class="username">姚晨</span>
+																																<span class="icon_bed"><a><i class="W_icon icon_pf_female"></i></a></span>													<a  title="微博会员" target="_blank" href="http://vip.weibo.com/personal?from=main" action-type="ignore_list"suda-uatrack="key=profile_head&value=member_guest"><em class="W_icon icon_member6"></em></a>												
+						</div>
+						
+						
+												<div class="pf_intro" title="演员，代表作：《武林外传》《潜伏》《离婚律师》等">
+						演员，代表作：《武林外传》《潜伏》《离婚律师》等						</div>
+												<div class="pf_opt" diss-data="wforce=1&refer_sort=profile&refer_flag=profile_head">
+							<div class="opt_box clearfix">
+								<div class="btn_bed W_fl" node-type="focusLink" action-data="uid=1266321801&fnick=姚晨&f=1">
+																<a href="javascript:void(0);" suda-uatrack="key=tblog_profile_v6&value=atten" suda-data="key=tblog_attention_click&value=1266321801"  action-type="follow"    class="W_btn_c btn_34px"><em class="W_ficon ficon_add S_ficon">+</em>关注</a>
+																</div>
+								<div class="btn_bed W_fl"><a href="javascript:;"  action-type="webim.conversation"  action-data="uid=1266321801&nick=姚晨" class="W_btn_d btn_34px" suda-uatrack="key=tblog_profile_v6&value=private_letter">私信</a></div>
+								<div class="btn_bed W_fl"><a href="javascript:;" node-type="more" class="W_btn_d W_btn_pf_menu btn_34px"><em class="W_ficon ficon_menu S_ficon">=</em></a></div>
+							</div>
+						</div>
+											</div>
+															<div class="pf_use_num" node-type="use_num">超过<span class="W_Tahoma W_fb">60000</span>人正在使用</div>
+																								<a href="javascript:void(0);" suda-uatrack="key=tblog_profile_new&value=icon_copycover" class="pf_copy_icon" action-data="copy=1&owner_uid=1266321801&type=system&cover_id=2020"  action-type="copy_cover" title="我也要用"></a>
+																				</div>
+			</div>
+<div node-type="moreList"  class="layer_menu_list_b" style="position:absolute; top:332px; left:900px; z-index:999;display: none;">	
+	<div class="list_wrap">
+		<div class="list_content W_f14">
+  			<ul class="list_ul">
+  			  			    		    			    			<li class="item"><a suda-data="key=tblog_otherprofile_v5&value=whisper" href="javascript:void(0);"  action-type="addQuietFollow"  action-data="fuid=1266321801&fname=姚晨&action=add" class="tlink" suda-uatrack="key=tblog_profile_v6&value=silently_concern">悄悄关注</a></li>
+    			    		    		<li class="item"><a action-data="title=%E6%8A%8A%E5%A7%9A%E6%99%A8%E6%8E%A8%E8%8D%90%E7%BB%99%E6%9C%8B%E5%8F%8B&content=%E5%BF%AB%E6%9D%A5%E7%9C%8B%E7%9C%8B%E5%A7%9A%E6%99%A8%20%E7%9A%84%E5%BE%AE%E5%8D%9Ahttp://weibo.com/yaochen" href="javascript:void(0);"  action-type="widget_publish"  class="tlink" suda-uatrack="key=tblog_profile_v6&value=suggest_to_friends">推荐给朋友</a></li>
+  			</ul>
+  						<ul class="list_ul">
+										<li class="item"><a suda-data="key=tblog_otherprofile_v5&value=join_blacklist" href="javascript:void(0);"  action-type="block"  class="tlink" suda-uatrack="key=tblog_profile_v6&value=in_black_list">加入黑名单</a></li>
+												<li class="item"><a suda-data="key=tblog_otherprofile_v5&value=report" href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=1266321801&from=10106&type=3&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');"  class="tlink" suda-uatrack="key=tblog_profile_v6&value=report">举报她</a></li>
+  			  			</ul>
+  					</div>
+  </div>
+</div>
+
+2014-11-28 23:12:53,168 [main] INFO  [com.weibo.sina.cookie.person.v2.GrabPersonInfoV2] - renZhInfo---        <div class="WB_feed WB_feed_profile">
+        <div style="position:relative;">
+            <div style="position:absolute;top:-90px;left:0;width:0;height:0;" id="feedtop" name="feedtop"></div>
+        </div>
+        <!--feed内容-->
+            <div class="WB_feed WB_feed_profile" pageNum="" node-type='feed_list' module-type="feed">
+                                 <div  tbinfo="ouid=1266321801" action-type="feed_list_item" diss-data=""  mid="3776048456437191"  class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3776048456437191&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" nick-name="姚晨">
+                            <span class="W_icon_feedhot"><i class="W_icon icon_feedhot_lite" title="热门" exp-data="key=profile_weibo&value=hotweibo&src=http://rs.sinajs.cn/j.gif"></i>热门</span>
+                                    <a render="ext" class="a_topic" extra-data="type=topic" href="http://huati.weibo.com/k/%E7%83%AD%E8%84%B8%E8%B4%B4%E5%B1%81%E8%82%A1%E7%88%B1%E5%BF%83%E5%A4%A7%E6%8C%91%E6%88%98?from=501">#热脸贴屁股爱心大挑战#</a> 和一只高冷猫的屁股合影，是需要经历一番搏斗的。<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/91/h_org.gif" title="[黑线]" alt=    "[黑线]" type="face" />有猫的朋友，一起来给流浪猫狗送冬日爱心餐吧！<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" title="[心]" alt=    "[心]" type="face" /><a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E8%88%92%E6%B7%87?from=feed&loc=at" usercard="name=舒淇">@舒淇</a> <a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E9%99%B3%E5%98%89%E4%B8%8AGordon?from=feed&loc=at" usercard="name=陳嘉上Gordon">@陳嘉上Gordon</a> <a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E6%9D%8E%E8%89%BE?from=feed&loc=at" usercard="name=李艾">@李艾</a> <a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E5%B0%BE%E5%B7%B4%E5%9C%88?from=feed&loc=at" usercard="name=尾巴圈">@尾巴圈</a>                        </div>
+                                                            <!-- 引用文件时，必须对midia_info赋值 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+                <div class="WB_media_wrap clearfix" node-type="feed_list_media_prev">
+              <div class="media_box">
+                                                    <!-- img之间不能加空格 -->
+                                                                                                                                <!-- 九宫格 -->
+                    <div node-type="fl_pic_list" action-data="uid=1266321801&pic_ids=4b7a8989jw1em81kgdy2xj20p10n1q7c,4b7a8989jw1em81khk9n9j20zk0qodo2,4b7a8989jw1em81kii213j20zk0qoagc,4b7a8989jw1em81kjrfkrj20hr25v7du&mid=3776048456437191&pic_objects=&object_ids=1042018%3Abd18b3992cc1a157b8c3359513917a70%2C1042018%3A4198e610227e417f2bb3700e5f91cb57%2C1042018%3Aeb7f2b4472c6fd821c56ac6a2b2ccc45%2C1042018%3A14458be72eb5ebab95c9de3207fbdbe6&photo_tag_pids=">
+                        <ul class="WB_media_a WB_media_a_mn WB_media_a_m4 clearfix">
+                                                                                                                <li class="WB_pic S_bg1 bigcursor"><img src="http://ww2.sinaimg.cn/square/4b7a8989jw1em81kgdy2xj20p10n1q7c.jpg" action-data="pic_id=4b7a8989jw1em81kgdy2xj20p10n1q7c" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                                                                                                                                                <li class="WB_pic S_bg1 bigcursor"><img src="http://ww1.sinaimg.cn/square/4b7a8989jw1em81khk9n9j20zk0qodo2.jpg" action-data="pic_id=4b7a8989jw1em81khk9n9j20zk0qodo2" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                                                                                                                                                <li class="WB_pic S_bg1 bigcursor"><img src="http://ww2.sinaimg.cn/square/4b7a8989jw1em81kii213j20zk0qoagc.jpg" action-data="pic_id=4b7a8989jw1em81kii213j20zk0qoagc" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                                                                                                                                                <li class="WB_pic S_bg1 bigcursor"><img src="http://ww1.sinaimg.cn/square/4b7a8989jw1em81kjrfkrj20hr25v7du.jpg" action-data="pic_id=4b7a8989jw1em81kjrfkrj20hr25v7du" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                                                                                                                                                       </ul>
+                    </div>
+                                        <!-- /九宫格 -->
+                                                                            </div>
+</div>
+                        <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                            <div class="WB_from S_txt2">
+                
+                <a name=3776048456437191 target="_blank" href="/1266321801/BvUmNr0BF?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-12 11:39" date="1415763570000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 11月12日 11:39</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&url=http://weibo.com/1266321801/BvUmNr0BF&mid=3776048456437191&name=姚晨&uid=1266321801&domain=yaochen&pid=4b7a8989jw1em81kgdy2xj20p10n1q7c" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 40924</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 5147</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3776048456437191&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>45958</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div minfo="ru=1135520725&rm=3782014152582669" tbinfo="ouid=1266321801&rouid=1135520725" action-type="feed_list_item" diss-data=""  mid="3782015084482882" isForward="1"  omid="3782014152582669" class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3782015084482882&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" >
+                                    <img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" title="[心]" alt=    "[心]" type="face" />                        </div>
+                                                <div class="WB_feed_expand">
+                <div class="W_arrow_bor W_arrow_bor_t"><i class="S_bg1_br"></i></div>
+                <div class="WB_expand S_bg1" node-type="feed_list_forwardContent">
+                                                                <div class="WB_info">
+                            <a node-type='feed_list_originNick' class="W_fb S_txt1" nick-name="画片集" bpfilter="page_frame" href="/ibangshou" title="画片集" usercard="id=1135520725">@画片集</a>                        </div>
+                        <div class="WB_text" node-type="feed_list_reason">
+                            带你到世界的尽头,见证彼此的爱情。 作者：英国kitchenerphotography婚礼摄影工作室                        </div>
+                                                                            <div node-type='feed_list_media_prev'>
+                                <!-- 该模板和media.phtml如此之相像……有时间的话可以合并之，需注意ifForward="1"，其他几乎相同 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+
+<!-- 特型广告feed -->
+                    <div class="WB_media_wrap clearfix">
+        <div class="media_box">
+                                     <!-- img之间不能加空格 -->
+                                                                                                <!-- 九宫格 -->
+                <div node-type="fl_pic_list" action-data="uid=1135520725&pic_ids=43aeabd5gw1emqjbirgrvj20qe0h00x6,43aeabd5gw1emqjblr2s7j20p00gpaej,43aeabd5gw1emqjbopef1j20zk0nrgrh,43aeabd5gw1emqjbyvledj20qe0hm44d,43aeabd5gw1emqjc117gzj20q30hdae9,43aeabd5gw1emqjc6varwj20zk0nr43t,43aeabd5gw1emqjc8czv2j20q40h8goc,43aeabd5gw1emqjhd9my9j20q40hdgpe,43aeabd5gw1emqjqthx9sj20jg0cuq4v&mid=3782014152582669&pic_objects=&object_ids=1042018%3Ad8bb415d8eccc0aef3abf8300719219b%2C1042018%3Ae2c5880a518052fb2a4701ebc9a535f2%2C1042018%3Abdbfa8f5ed89fbc84e3cc53d7390dda5%2C1042018%3A5c6450644ee4da4a2c0817e8b578fc6f%2C1042018%3A487b7da475d7e4141cfba238154adb19%2C1042018%3Ac3e167d2cc678840f7ff921c8df5ae73%2C1042018%3A1f509812a7479b5cfb47df1c08cb79e3%2C1042018%3A98b8215e973d4f80f3a457e6af9f50e9%2C1042018%3A7683794062e3d768ddf9b0e5184b5726&photo_tag_pids=">
+                    <ul class="WB_media_a WB_media_a_mn  WB_media_a_m9 clearfix">
+                                                                                <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww4.sinaimg.cn/square/43aeabd5gw1emqjbirgrvj20qe0h00x6.jpg" action-data="pic_id=43aeabd5gw1emqjbirgrvj20qe0h00x6" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww2.sinaimg.cn/square/43aeabd5gw1emqjblr2s7j20p00gpaej.jpg" action-data="pic_id=43aeabd5gw1emqjblr2s7j20p00gpaej" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww2.sinaimg.cn/square/43aeabd5gw1emqjbopef1j20zk0nrgrh.jpg" action-data="pic_id=43aeabd5gw1emqjbopef1j20zk0nrgrh" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/43aeabd5gw1emqjbyvledj20qe0hm44d.jpg" action-data="pic_id=43aeabd5gw1emqjbyvledj20qe0hm44d" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/43aeabd5gw1emqjc117gzj20q30hdae9.jpg" action-data="pic_id=43aeabd5gw1emqjc117gzj20q30hdae9" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww4.sinaimg.cn/square/43aeabd5gw1emqjc6varwj20zk0nr43t.jpg" action-data="pic_id=43aeabd5gw1emqjc6varwj20zk0nr43t" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/43aeabd5gw1emqjc8czv2j20q40h8goc.jpg" action-data="pic_id=43aeabd5gw1emqjc8czv2j20q40h8goc" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/43aeabd5gw1emqjhd9my9j20q40hdgpe.jpg" action-data="pic_id=43aeabd5gw1emqjhd9my9j20q40hdgpe" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww3.sinaimg.cn/square/43aeabd5gw1emqjqthx9sj20jg0cuq4v.jpg" action-data="pic_id=43aeabd5gw1emqjqthx9sj20jg0cuq4v" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                                    </ul>
+                </div>
+                                <!-- /九宫格 -->
+                                         </div>
+</div>
+                            </div>
+                                                    <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                                        <div class="WB_func clearfix">
+    <div class="WB_handle W_fr" mid="3782014152582669">
+        <ul class="clearfix">
+                        <li><span class="line S_line1"><a bpfilter="page_frame" href="/1135520725/BypyTaPRX?type=repost" class="S_txt2" action-history="rec=1" >转发 1646</a></span></li>
+            <li><span class="line S_line1"><a bpfilter="page_frame" href="/1135520725/BypyTaPRX" class="S_txt2" >评论 133</a></span></li>
+            <li><span class="line S_line1"><a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3782014152582669" title="赞"><span node-type="like_status"><i class="W_icon icon_praised_b"></i><em> 547</em></span></a></span></li>
+        </ul>
+    </div>
+    <div class="WB_from S_txt2">
+        <a class="S_txt2" target="_blank" href="/1135520725/BypyTaPRX" title="2014-11-28 22:45" date="1417185903000" node-type="feed_list_item_date" >28分钟前</a> 来自 <a class="S_txt2" action-type="app_source" target="_blank" href="http://weibo.com/" rel="nofollow">微博 weibo.com</a>    </div>
+</div>                                    </div>
+            </div>
+                                    <div class="WB_from S_txt2">
+                
+                <a name=3782015084482882 target="_blank" href="/1266321801/BypAoiOcy?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-28 22:48" date="1417186124000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 24分钟前</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&rootmid=3782014152582669&rootname=画片集&rootuid=1135520725&rooturl=http://weibo.com/1135520725/BypyTaPRX&url=http://weibo.com/1266321801/BypAoiOcy&mid=3782015084482882&name=姚晨&uid=1266321801&domain=ibangshou&pid=43aeabd5gw1emqjbirgrvj20qe0h00x6" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 980</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 218</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3782015084482882&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>2627</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div  tbinfo="ouid=1266321801" action-type="feed_list_item" diss-data=""  mid="3781955563162472"  class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3781955563162472&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" nick-name="姚晨">
+                                    “又圆恋”终于圆满了，愿幸福直到永远！<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/flower_org.gif" title="[鲜花]" alt=    "[鲜花]" type="face" />另：欢迎新郎携新娘到敦煌度蜜月，顺道回剧组拍拍戏…<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" title="[嘻嘻]" alt=    "[嘻嘻]" type="face" /><a render="ext" extra-data="type=atname" href="http://weibo.com/n/HERO%E8%B6%99%E5%8F%88%E5%BB%B7?from=feed&loc=at" usercard="name=HERO趙又廷">@HERO趙又廷</a> <a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E9%AB%98%E5%9C%86%E5%9C%86?from=feed&loc=at" usercard="name=高圆圆">@高圆圆</a>                        </div>
+                                                            <!-- 引用文件时，必须对midia_info赋值 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+                <div class="WB_media_wrap clearfix" node-type="feed_list_media_prev">
+              <div class="media_box">
+                                                    <!-- img之间不能加空格 -->
+                                                            <ul class="WB_media_a WB_media_a_m1 clearfix">
+            <li class="WB_pic S_bg1 bigcursor" action-type="feed_list_media_img" action-data="uid=1266321801&mid=3781955563162472&pid=4b7a8989jw1emqwf8jtsuj20c80bqmy0&pic_objects=&object_ids=1042018%3Ab004d39ef45de61e77230e4a1572e6f4&photo_tag_pids=" suda-data="key=feed_image_click&value=image_zoomin"><img  class="bigcursor" node-type="feed_list_media_bgimg" src="http://ww2.sinaimg.cn/thumbnail/4b7a8989jw1emqwf8jtsuj20c80bqmy0.jpg" alt=""/><i style="display:none;" class="W_loading"></i></li> 
+            </ul>
+                                            </div>
+</div>
+                        <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                            <div class="WB_from S_txt2">
+                
+                <a name=3781955563162472 target="_blank" href="/1266321801/Byo2odgHC?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-28 18:52" date="1417171933000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 今天 18:52</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&url=http://weibo.com/1266321801/Byo2odgHC&mid=3781955563162472&name=姚晨&uid=1266321801&domain=yaochen&pid=4b7a8989jw1emqwf8jtsuj20c80bqmy0" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 1523</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 1182</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781955563162472&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>49693</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div  tbinfo="ouid=1266321801" action-type="feed_list_item" diss-data=""  mid="3781830908216818"  class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3781830908216818&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" nick-name="姚晨">
+                                    曹老发回来的敦煌取景图，广袤壮丽，又充满了魔幻感。这里的沙子是彩色的，从20万年前就开始形成。胡八一和shirley杨的故事将从这里开始…<img src='http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8ca4.png' width="20px" height="20px">                        </div>
+                                                            <!-- 引用文件时，必须对midia_info赋值 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+                <div class="WB_media_wrap clearfix" node-type="feed_list_media_prev">
+              <div class="media_box">
+                                                    <!-- img之间不能加空格 -->
+                                                                                                                                <!-- 九宫格 -->
+                    <div node-type="fl_pic_list" action-data="uid=1266321801&pic_ids=4b7a8989jw1emqi8ji4fij20zk0qota5,4b7a8989jw1emqi8jyadnj20zk0qo0ys,4b7a8989jw1emqi8nwe6oj20zk0qo48w,4b7a8989jw1emqi8qbnlpj20zk0qojun,4b7a8989jw1emqi8qpd1pj20zk0qo77r,4b7a8989jw1emqi8rij7sj20zk0qo44u&mid=3781830908216818&pic_objects=&object_ids=1042018%3A7b33f9f4dcc249465d33b012a81b72e8%2C1042018%3A0bd5e7aef23c24e204de552bd5c6fdbd%2C1042018%3Ada542fda5c0d1668085115cbcb652b54%2C1042018%3A248d3e5fcd122b512094d12445b85d07%2C1042018%3Ad7fd589a1f200ba5babb72fc3b123112%2C1042018%3A4ee1156a261ab3498dfea9757fb74753&photo_tag_pids=">
+                        <ul class="WB_media_a WB_media_a_mn clearfix">
+                                                                                                                <li class="WB_pic S_bg1 bigcursor"><img src="http://ww2.sinaimg.cn/square/4b7a8989jw1emqi8ji4fij20zk0qota5.jpg" action-data="pic_id=4b7a8989jw1emqi8ji4fij20zk0qota5" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                                                                                                                                                <li class="WB_pic S_bg1 bigcursor"><img src="http://ww3.sinaimg.cn/square/4b7a8989jw1emqi8jyadnj20zk0qo0ys.jpg" action-data="pic_id=4b7a8989jw1emqi8jyadnj20zk0qo0ys" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                                                                                                                                                <li class="WB_pic S_bg1 bigcursor"><img src="http://ww4.sinaimg.cn/square/4b7a8989jw1emqi8nwe6oj20zk0qo48w.jpg" action-data="pic_id=4b7a8989jw1emqi8nwe6oj20zk0qo48w" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                                                                                                                                                <li class="WB_pic S_bg1 bigcursor"><img src="http://ww3.sinaimg.cn/square/4b7a8989jw1emqi8qbnlpj20zk0qojun.jpg" action-data="pic_id=4b7a8989jw1emqi8qbnlpj20zk0qojun" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                                                                                                                                                <li class="WB_pic S_bg1 bigcursor"><img src="http://ww4.sinaimg.cn/square/4b7a8989jw1emqi8qpd1pj20zk0qo77r.jpg" action-data="pic_id=4b7a8989jw1emqi8qpd1pj20zk0qo77r" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                                                                                                                                                <li class="WB_pic S_bg1 bigcursor"><img src="http://ww2.sinaimg.cn/square/4b7a8989jw1emqi8rij7sj20zk0qo44u.jpg" action-data="pic_id=4b7a8989jw1emqi8rij7sj20zk0qo44u" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                                                                                                                                                       </ul>
+                    </div>
+                                        <!-- /九宫格 -->
+                                                                            </div>
+</div>
+                        <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                            <div class="WB_from S_txt2">
+                
+                <a name=3781830908216818 target="_blank" href="/1266321801/BykNkytzk?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-28 10:36" date="1417142214000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 今天 10:36</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&url=http://weibo.com/1266321801/BykNkytzk&mid=3781830908216818&name=姚晨&uid=1266321801&domain=yaochen&pid=4b7a8989jw1emqi8ji4fij20zk0qota5" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 1385</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 2153</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781830908216818&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>20747</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div minfo="ru=2243807243&rm=3781595645000898" tbinfo="ouid=1266321801&rouid=2243807243" action-type="feed_list_item" diss-data=""  mid="3781822180139125" isForward="1"  omid="3781595645000898" class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3781822180139125&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" >
+                                    哦，年轻的老友 ，年轻的皮特。<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/bd/cheer.gif" title="[干杯]" alt=    "[干杯]" type="face" />//<a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E5%8D%97%E9%83%BD%E5%A8%B1%E4%B9%90%E5%91%A8%E5%88%8A?from=feed&loc=at" usercard="name=南都娱乐周刊">@南都娱乐周刊</a>:莫名怀念                        </div>
+                                                <div class="WB_feed_expand">
+                <div class="W_arrow_bor W_arrow_bor_t"><i class="S_bg1_br"></i></div>
+                <div class="WB_expand S_bg1" node-type="feed_list_forwardContent">
+                                                                <div class="WB_info">
+                            <a node-type='feed_list_originNick' class="W_fb S_txt1" nick-name="这里是美国" bpfilter="page_frame" href="/u/2243807243" title="这里是美国" usercard="id=2243807243">@这里是美国</a><a target="_blank" href="http://verified.weibo.com/verify"><i title= "微博机构认证" class="W_icon icon_approve_co"></i></a>                        </div>
+                        <div class="WB_text" node-type="feed_list_reason">
+                            那些年，老友们的感恩节！                        </div>
+                                                                            <div node-type='feed_list_media_prev'>
+                                <!-- 该模板和media.phtml如此之相像……有时间的话可以合并之，需注意ifForward="1"，其他几乎相同 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+
+<!-- 特型广告feed -->
+                    <div class="WB_media_wrap clearfix">
+        <div class="media_box">
+                                     <!-- img之间不能加空格 -->
+                                                                                                <!-- 九宫格 -->
+                <div node-type="fl_pic_list" action-data="uid=2243807243&pic_ids=85bdc80bjw1empoojp4gdj20c809wgn6,85bdc80bjw1empool1aefg206t03mu03,85bdc80bjw1empooly9hmg206t03mqub,85bdc80bjw1empoon3aovg206t03mqtv,85bdc80bjw1empoomikc1g206t03m1k3,85bdc80bjw1empoonpniig206t03mnoh,85bdc80bjw1empoooz0bug206t03mhcp,85bdc80bjw1empooposcig206t03me6p,85bdc80bjw1empooqonckg206t03mx5c&mid=3781595645000898&pic_objects=&object_ids=1042018%3Ab6610190d51f627edbe60c39fbad704e%2C1042018%3A78d7987701276652bd4960c427803049%2C1042018%3A822cb566354f7bb954f5dc0c15e50ec6%2C1042018%3A1b394b5e5a35f043b90477ad08da0bfb%2C1042018%3A11f3fef246c7a5c55375597746974a59%2C1042018%3A91e2017ab88fcc907dc7e3cd8b78ea40%2C1042018%3A919531b73df65b6c72cf07862649fae6%2C1042018%3A15becad1592a035daed77ee366d92291%2C1042018%3Ac7dda6492bc53e5bcb4242db0f40aa34&photo_tag_pids=">
+                    <ul class="WB_media_a WB_media_a_mn  WB_media_a_m9 clearfix">
+                                                                                <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww4.sinaimg.cn/square/85bdc80bjw1empoojp4gdj20c809wgn6.jpg" action-data="pic_id=85bdc80bjw1empoojp4gdj20c809wgn6" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww4.sinaimg.cn/square/85bdc80bjw1empool1aefg206t03mu03.gif" action-data="pic_id=85bdc80bjw1empool1aefg206t03mu03" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/85bdc80bjw1empooly9hmg206t03mqub.gif" action-data="pic_id=85bdc80bjw1empooly9hmg206t03mqub" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww2.sinaimg.cn/square/85bdc80bjw1empoon3aovg206t03mqtv.gif" action-data="pic_id=85bdc80bjw1empoon3aovg206t03mqtv" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww2.sinaimg.cn/square/85bdc80bjw1empoomikc1g206t03m1k3.gif" action-data="pic_id=85bdc80bjw1empoomikc1g206t03m1k3" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww4.sinaimg.cn/square/85bdc80bjw1empoonpniig206t03mnoh.gif" action-data="pic_id=85bdc80bjw1empoonpniig206t03mnoh" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww4.sinaimg.cn/square/85bdc80bjw1empoooz0bug206t03mhcp.gif" action-data="pic_id=85bdc80bjw1empoooz0bug206t03mhcp" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww4.sinaimg.cn/square/85bdc80bjw1empooposcig206t03me6p.gif" action-data="pic_id=85bdc80bjw1empooposcig206t03me6p" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/85bdc80bjw1empooqonckg206t03mx5c.gif" action-data="pic_id=85bdc80bjw1empooqonckg206t03mx5c" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                                    </ul>
+                </div>
+                                <!-- /九宫格 -->
+                                         </div>
+</div>
+                            </div>
+                                                    <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                                        <div class="WB_func clearfix">
+    <div class="WB_handle W_fr" mid="3781595645000898">
+        <ul class="clearfix">
+                        <li><span class="line S_line1"><a bpfilter="page_frame" href="/2243807243/ByeFSkYXE?type=repost" class="S_txt2" action-history="rec=1" >转发 5844</a></span></li>
+            <li><span class="line S_line1"><a bpfilter="page_frame" href="/2243807243/ByeFSkYXE" class="S_txt2" >评论 596</a></span></li>
+            <li><span class="line S_line1"><a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781595645000898" title="赞"><span node-type="like_status"><i class="W_icon icon_praised_b"></i><em> 2043</em></span></a></span></li>
+        </ul>
+    </div>
+    <div class="WB_from S_txt2">
+        <a class="S_txt2" target="_blank" href="/2243807243/ByeFSkYXE" title="2014-11-27 19:02" date="1417086123000" node-type="feed_list_item_date" >11月27日 19:02</a> 来自 <a class="S_txt2" action-type="app_source" target="_blank" href="http://weibo.com/" rel="nofollow">微博 weibo.com</a>    </div>
+</div>                                    </div>
+            </div>
+                                    <div class="WB_from S_txt2">
+                
+                <a name=3781822180139125 target="_blank" href="/1266321801/Bykzg0AbX?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-28 10:02" date="1417140132000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 今天 10:02</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&rootmid=3781595645000898&rootname=这里是美国&rootuid=2243807243&rooturl=http://weibo.com/2243807243/ByeFSkYXE&url=http://weibo.com/1266321801/Bykzg0AbX&mid=3781822180139125&name=姚晨&uid=1266321801&domain=2243807243&pid=85bdc80bjw1empoojp4gdj20c809wgn6" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 2484</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 438</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781822180139125&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>6853</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div minfo="ru=1758161805&rm=3781656173128143" tbinfo="ouid=1266321801&rouid=1758161805" action-type="feed_list_item" diss-data=""  mid="3781665803934403" isForward="1"  omid="3781656173128143" class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3781665803934403&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" >
+                                    我跟你没什么仇没什么怨…<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" title="[泪]" alt=    "[泪]" type="face" />                        </div>
+                                                <div class="WB_feed_expand">
+                <div class="W_arrow_bor W_arrow_bor_t"><i class="S_bg1_br"></i></div>
+                <div class="WB_expand S_bg1" node-type="feed_list_forwardContent">
+                                                                <div class="WB_info">
+                            <a node-type='feed_list_originNick' class="W_fb S_txt1" nick-name="嗳唷薇" bpfilter="page_frame" href="/bossjia" title="嗳唷薇" usercard="id=1758161805">@嗳唷薇</a>                        </div>
+                        <div class="WB_text" node-type="feed_list_reason">
+                            跟女明星约会的路上刷出新闻“女明星辱骂网友让其死开”，然后点开一看受辱网友是我…到店跟女明星说你看咋办吧我受辱了…女明星好委屈说那咋办那我给你道个歉吧…<a render="ext" class="a_topic" extra-data="type=topic" href="http://huati.weibo.com/k/%E5%8D%83%E5%86%9B%E4%B8%87%E9%A9%AC%E7%BB%99%E6%88%91%E6%92%91%E8%85%B0%E7%9A%84%E7%88%BD%E6%84%9F?from=501">#千军万马给我撑腰的爽感#</a>                        </div>
+                                                                            <div node-type='feed_list_media_prev'>
+                                <!-- 该模板和media.phtml如此之相像……有时间的话可以合并之，需注意ifForward="1"，其他几乎相同 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+
+<!-- 特型广告feed -->
+                    <div class="WB_media_wrap clearfix">
+        <div class="media_box">
+                                     <!-- img之间不能加空格 -->
+                                                                                                <!-- 九宫格 -->
+                <div node-type="fl_pic_list" action-data="uid=1758161805&pic_ids=68cb6b8djw1empyblh870j20vk0noe76,68cb6b8djw1empybn3spvj20hs0vkqc8,68cb6b8djw1empybhl79sj20hs0qodhc,68cb6b8djw1empybnpw7mj20hs0qoq4w&mid=3781656173128143&pic_objects=&object_ids=1042018%3Aa9711cee6809cb0bcc221abedbeb17d7%2C1042018%3Abe707696e2d924fba5ca865948528643%2C1042018%3Ac44f7c54433674841113a4f6e4438c71%2C1042018%3A1a96523d189d80c9d8100e42edf01efc&photo_tag_pids=">
+                    <ul class="WB_media_a WB_media_a_mn WB_media_a_m4 clearfix">
+                                                                                <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww3.sinaimg.cn/square/68cb6b8djw1empyblh870j20vk0noe76.jpg" action-data="pic_id=68cb6b8djw1empyblh870j20vk0noe76" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww2.sinaimg.cn/square/68cb6b8djw1empybn3spvj20hs0vkqc8.jpg" action-data="pic_id=68cb6b8djw1empybn3spvj20hs0vkqc8" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/68cb6b8djw1empybhl79sj20hs0qodhc.jpg" action-data="pic_id=68cb6b8djw1empybhl79sj20hs0qodhc" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww3.sinaimg.cn/square/68cb6b8djw1empybnpw7mj20hs0qoq4w.jpg" action-data="pic_id=68cb6b8djw1empybnpw7mj20hs0qoq4w" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                                    </ul>
+                </div>
+                                <!-- /九宫格 -->
+                                         </div>
+</div>
+                            </div>
+                                                    <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                                        <div class="WB_func clearfix">
+    <div class="WB_handle W_fr" mid="3781656173128143">
+        <ul class="clearfix">
+                        <li><span class="line S_line1"><a bpfilter="page_frame" href="/1758161805/Bygfvd7LV?type=repost" class="S_txt2" action-history="rec=1" >转发 686</a></span></li>
+            <li><span class="line S_line1"><a bpfilter="page_frame" href="/1758161805/Bygfvd7LV" class="S_txt2" >评论 389</a></span></li>
+            <li><span class="line S_line1"><a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781656173128143" title="赞"><span node-type="like_status"><i class="W_icon icon_praised_b"></i><em> 1350</em></span></a></span></li>
+        </ul>
+    </div>
+    <div class="WB_from S_txt2">
+        <a class="S_txt2" target="_blank" href="/1758161805/Bygfvd7LV" title="2014-11-27 23:02" date="1417100554000" node-type="feed_list_item_date" >11月27日 23:02</a> 来自 <a class="S_txt2" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/9ksdit" rel="nofollow">iPhone客户端</a>    </div>
+</div>                                    </div>
+            </div>
+                                    <div class="WB_from S_txt2">
+                
+                <a name=3781665803934403 target="_blank" href="/1266321801/Bygv2gvw7?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-27 23:40" date="1417102850000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 11月27日 23:40</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&rootmid=3781656173128143&rootname=嗳唷薇&rootuid=1758161805&rooturl=http://weibo.com/1758161805/Bygfvd7LV&url=http://weibo.com/1266321801/Bygv2gvw7&mid=3781665803934403&name=姚晨&uid=1266321801&domain=bossjia&pid=68cb6b8djw1empyblh870j20vk0noe76" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 654</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 2660</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781665803934403&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>13085</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div minfo="ru=1272037195&rm=3781558467118444" tbinfo="ouid=1266321801&rouid=1272037195" action-type="feed_list_item" diss-data=""  mid="3781662003870410" isForward="1"  omid="3781558467118444" class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3781662003870410&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" >
+                                    感恩有你们，感恩陪伴与信任。<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/lovea_org.gif" title="[爱你]" alt=    "[爱你]" type="face" /> //<a render="ext" extra-data="type=atname" href="http://weibo.com/n/away?from=feed&loc=at" usercard="name=away">@away</a>:感恩节，感谢有你！<a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E5%A7%9A%E6%99%A8?from=feed&loc=at" usercard="name=姚晨">@姚晨</a> <img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/lovea_org.gif" title="[爱你]" alt=    "[爱你]" type="face" />                        </div>
+                                                <div class="WB_feed_expand">
+                <div class="W_arrow_bor W_arrow_bor_t"><i class="S_bg1_br"></i></div>
+                <div class="WB_expand S_bg1" node-type="feed_list_forwardContent">
+                                                                <div class="WB_info">
+                            <a node-type='feed_list_originNick' class="W_fb S_txt1" nick-name="贪的快乐" bpfilter="page_frame" href="/tandekuaile" title="贪的快乐" usercard="id=1272037195">@贪的快乐</a><a target="_blank" href="http://club.weibo.com/intro"><i title= "微博达人" class="W_icon icon_club" node-type="daren"></i></a>                        </div>
+                        <div class="WB_text" node-type="feed_list_reason">
+                            每次最心疼你的就是我们了，你这个脾气也只有我们了解，路人神马的跟她/他解释也没用。你的戏有观众喜欢，你的人由我们来爱，那就够了。多希望你永远都不要被那些生活在阴影里的人打扰，不要被他们污言秽语所影响，也拜托你不要给他们任何回应。做一个最快乐、最幸福、最美好的你。<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/flower_org.gif" title="[鲜花]" alt=    "[鲜花]" type="face" /><a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E5%A7%9A%E6%99%A8?from=feed&loc=at" usercard="name=姚晨">@姚晨</a>                        </div>
+                                                                        <div class="WB_func clearfix">
+    <div class="WB_handle W_fr" mid="3781558467118444">
+        <ul class="clearfix">
+                        <li><span class="line S_line1"><a bpfilter="page_frame" href="/1272037195/BydHUtRPC?type=repost" class="S_txt2" action-history="rec=1" >转发 215</a></span></li>
+            <li><span class="line S_line1"><a bpfilter="page_frame" href="/1272037195/BydHUtRPC" class="S_txt2" >评论 20</a></span></li>
+            <li><span class="line S_line1"><a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781558467118444" title="赞"><span node-type="like_status"><i class="W_icon icon_praised_b"></i><em> 137</em></span></a></span></li>
+        </ul>
+    </div>
+    <div class="WB_from S_txt2">
+        <a class="S_txt2" target="_blank" href="/1272037195/BydHUtRPC" title="2014-11-27 16:34" date="1417077259000" node-type="feed_list_item_date" >11月27日 16:34</a> 来自 <a class="S_txt2" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>    </div>
+</div>                                    </div>
+            </div>
+                                    <div class="WB_from S_txt2">
+                
+                <a name=3781662003870410 target="_blank" href="/1266321801/BygoUgeRY?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-27 23:25" date="1417101943000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 11月27日 23:25</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&rootmid=3781558467118444&rootname=贪的快乐&rootuid=1272037195&rooturl=http://weibo.com/1272037195/BydHUtRPC&url=http://weibo.com/1266321801/BygoUgeRY&mid=3781662003870410&name=姚晨&uid=1266321801&domain=tandekuaile" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 185</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 562</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781662003870410&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>10640</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div minfo="ru=1650323803&rm=3781561625157802" tbinfo="ouid=1266321801&rouid=1650323803" action-type="feed_list_item" diss-data=""  mid="3781566029594919" isForward="1"  omid="3781561625157802" class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3781566029594919&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" >
+                                    小崔童鞋，情书写得不错，但你俩真的不合适…<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/48/lxhkoubishi_org.gif" title="[抠鼻屎]" alt=    "[抠鼻屎]" type="face" /> //<a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E5%B4%94%E6%96%AF%E5%9D%A6?from=feed&loc=at" usercard="name=崔斯坦">@崔斯坦</a>:最后一张图真的是珍藏呢，年轻的小武是不是好可爱！希望他下一部会演喜剧！                        </div>
+                                                <div class="WB_feed_expand">
+                <div class="W_arrow_bor W_arrow_bor_t"><i class="S_bg1_br"></i></div>
+                <div class="WB_expand S_bg1" node-type="feed_list_forwardContent">
+                                                                <div class="WB_info">
+                            <a node-type='feed_list_originNick' class="W_fb S_txt1" nick-name="崔斯坦" bpfilter="page_frame" href="/u/1650323803" title="崔斯坦" usercard="id=1650323803">@崔斯坦</a>                        </div>
+                        <div class="WB_text" node-type="feed_list_reason">
+                            用聂鲁达的诗句来形容金城武再贴切不过了，“你就像黑夜，拥有寂静与群星。”嘿，在黎贝卡的微信号上写了一封给他的情书：<a class="W_btn_c"  suda-uatrack="key=tblog_card&value=click_title:2003338004-webpage" title="好色||她们用金城武来缩短自己与世界的距离 （百张金城桑美图大放送）" href="http://t.cn/Rzbp3Rx"  action-type="feed_list_url" target="_blank" ><span><em  class="W_btn_icon"><i class="W_ico12 icon_cd_link"></i><i class="W_vline S_line1_c">|</i></em><em class="W_autocut S_link1" >好色||她们用金城武来缩短自己与世界的距离 （百张金城桑美图大放送）</em></span></a>                        </div>
+                                                                            <div node-type='feed_list_media_prev'>
+                                <!-- 该模板和media.phtml如此之相像……有时间的话可以合并之，需注意ifForward="1"，其他几乎相同 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+
+<!-- 特型广告feed -->
+                    <div class="WB_media_wrap clearfix">
+        <div class="media_box">
+                                     <!-- img之间不能加空格 -->
+                                                                                                <!-- 九宫格 -->
+                <div node-type="fl_pic_list" action-data="uid=1650323803&pic_ids=625df15bjw1empnf849o1j20dw0af75i,625df15bjw1empnf9ixgwj20dw0jxtas,625df15bjw1empnfag9zrj20dw0e5761,625df15bjw1empnf72s6tj20790a0gm0&mid=3781561625157802&pic_objects=&object_ids=1042018%3A65a832a312d75911e59b975a2ee982d3%2C1042018%3Aa2534a191425550eea9a417810e57d46%2C1042018%3A64472f30e6c9bf559d5b260e82d50512%2C1042018%3A41fc5c4f377d2659d721bc209bae9f7e&photo_tag_pids=">
+                    <ul class="WB_media_a WB_media_a_mn WB_media_a_m4 clearfix">
+                                                                                <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww4.sinaimg.cn/square/625df15bjw1empnf849o1j20dw0af75i.jpg" action-data="pic_id=625df15bjw1empnf849o1j20dw0af75i" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/625df15bjw1empnf9ixgwj20dw0jxtas.jpg" action-data="pic_id=625df15bjw1empnf9ixgwj20dw0jxtas" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww3.sinaimg.cn/square/625df15bjw1empnfag9zrj20dw0e5761.jpg" action-data="pic_id=625df15bjw1empnfag9zrj20dw0e5761" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww4.sinaimg.cn/square/625df15bjw1empnf72s6tj20790a0gm0.jpg" action-data="pic_id=625df15bjw1empnf72s6tj20790a0gm0" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                                    </ul>
+                </div>
+                                <!-- /九宫格 -->
+                                         </div>
+</div>
+                            </div>
+                                                    <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                                        <div class="WB_func clearfix">
+    <div class="WB_handle W_fr" mid="3781561625157802">
+        <ul class="clearfix">
+                        <li><span class="line S_line1"><a bpfilter="page_frame" href="/1650323803/BydN0lDMm?type=repost" class="S_txt2" action-history="rec=1" >转发 616</a></span></li>
+            <li><span class="line S_line1"><a bpfilter="page_frame" href="/1650323803/BydN0lDMm" class="S_txt2" >评论 65</a></span></li>
+            <li><span class="line S_line1"><a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781561625157802" title="赞"><span node-type="like_status"><i class="W_icon icon_praised_b"></i><em> 279</em></span></a></span></li>
+        </ul>
+    </div>
+    <div class="WB_from S_txt2">
+        <a class="S_txt2" target="_blank" href="/1650323803/BydN0lDMm" title="2014-11-27 16:46" date="1417078012000" node-type="feed_list_item_date" >11月27日 16:46</a> 来自 <a class="S_txt2" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>    </div>
+</div>                                    </div>
+            </div>
+                                    <div class="WB_from S_txt2">
+                
+                <a name=3781566029594919 target="_blank" href="/1266321801/BydU6Eg4L?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-27 17:04" date="1417079062000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 11月27日 17:04</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&rootmid=3781561625157802&rootname=崔斯坦&rootuid=1650323803&rooturl=http://weibo.com/1650323803/BydN0lDMm&url=http://weibo.com/1266321801/BydU6Eg4L&mid=3781566029594919&name=姚晨&uid=1266321801&domain=1650323803&pid=625df15bjw1empnf849o1j20dw0af75i" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 418</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 319</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781566029594919&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>6927</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div  tbinfo="ouid=1266321801" action-type="feed_list_item" diss-data=""  mid="3781097194777252"  class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3781097194777252&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" nick-name="姚晨">
+                                    前几日，蕾姐问：冰箱里取出来的面膜太凉怎么破？我随口答：微波炉里打热呗。昨晚又到了蕾姐保养时间，她虔诚的把带锡质包装的面膜放进了微波炉。一时间，只见火光四溅，蕾姐惨叫连连。<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ed/lxhbeidian_org.gif" title="[被电]" alt=    "[被电]" type="face" /> 现在，我得出门给蕾姐家买个新微波炉…<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/cry.gif" title="[衰]" alt=    "[衰]" type="face" /><a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E5%BC%A0%E8%95%BE?from=feed&loc=at" usercard="name=张蕾">@张蕾</a>                        </div>
+                                                            <!-- 引用文件时，必须对midia_info赋值 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+                <div class="WB_media_wrap clearfix" node-type="feed_list_media_prev">
+              <div class="media_box">
+                                                    <!-- img之间不能加空格 -->
+                                                            <ul class="WB_media_a WB_media_a_m1 clearfix">
+            <li class="WB_pic S_bg1 bigcursor" action-type="feed_list_media_img" action-data="uid=1266321801&mid=3781097194777252&pid=4b7a8989jw1emo5ogdkkij20dc0dct9p&pic_objects=&object_ids=1042018%3A62287a697d3cebd08d593da03dd3e17b&photo_tag_pids=" suda-data="key=feed_image_click&value=image_zoomin"><img  class="bigcursor" node-type="feed_list_media_bgimg" src="http://ww3.sinaimg.cn/thumbnail/4b7a8989jw1emo5ogdkkij20dc0dct9p.jpg" alt=""/><i style="display:none;" class="W_loading"></i></li> 
+            </ul>
+                                            </div>
+</div>
+                        <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                            <div class="WB_from S_txt2">
+                
+                <a name=3781097194777252 target="_blank" href="/1266321801/By1HVk2Ms?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-26 10:01" date="1416967283000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 11月26日 10:01</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&url=http://weibo.com/1266321801/By1HVk2Ms&mid=3781097194777252&name=姚晨&uid=1266321801&domain=yaochen&pid=4b7a8989jw1emo5ogdkkij20dc0dct9p" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 780</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 2806</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781097194777252&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>22468</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div minfo="ru=1664971205&rm=3781067863395107" tbinfo="ouid=1266321801&rouid=1664971205" action-type="feed_list_item" diss-data=""  mid="3781073295249140" isForward="1"  omid="3781067863395107" class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3781073295249140&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" >
+                                    <img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a0/gm_org.gif" title="[感冒]" alt=    "[感冒]" type="face" /><img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a0/gm_org.gif" title="[感冒]" alt=    "[感冒]" type="face" /><img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a0/gm_org.gif" title="[感冒]" alt=    "[感冒]" type="face" /> //<a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB?from=feed&loc=at" usercard="name=头条新闻">@头条新闻</a>:转发微博                        </div>
+                                                <div class="WB_feed_expand">
+                <div class="W_arrow_bor W_arrow_bor_t"><i class="S_bg1_br"></i></div>
+                <div class="WB_expand S_bg1" node-type="feed_list_forwardContent">
+                                                                <div class="WB_info">
+                            <a node-type='feed_list_originNick' class="W_fb S_txt1" nick-name="天气预报" bpfilter="page_frame" href="/weather" title="天气预报" usercard="id=1664971205">@天气预报</a><a target="_blank" href="http://verified.weibo.com/verify"><i title= "微博机构认证" class="W_icon icon_approve_co"></i></a>                        </div>
+                        <div class="WB_text" node-type="feed_list_reason">
+                            【<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1b/m_org.gif" title="[话筒]" alt=    "[话筒]" type="face" />戴口罩！雾+霾预警齐发！咳咳咳！】北京、天津、河北、河南、山东、山西再度遭霾伏，局地有重度霾，河北保定有严重霾<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/cry.gif" title="[衰]" alt=    "[衰]" type="face" />同时，入秋以来最严重大雾来袭！从华北到江南、西南，北京、河北、河南、安徽、湖南、江西等局地有强浓雾<a title="霾黄色预警：京津冀等地局地有重度霾" href="http://t.cn/RzGKjve"  action-type="feed_list_url" target="_blank" >http://t.cn/RzGKjve</a>明天早晨起，霾将逐渐减弱...                        </div>
+                                                                            <div node-type='feed_list_media_prev'>
+                                <!-- 该模板和media.phtml如此之相像……有时间的话可以合并之，需注意ifForward="1"，其他几乎相同 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+
+<!-- 特型广告feed -->
+                    <div class="WB_media_wrap clearfix">
+        <div class="media_box">
+                                     <!-- img之间不能加空格 -->
+                                            <ul class="WB_media_a WB_media_a_m1 clearfix">
+               <li class="WB_pic S_bg2 bigcursor" action-type="feed_list_media_img" action-data="uid=1664971205&mid=3781067863395107&pid=633d71c5jw1emo2r7l1knj20c8118jvp&pic_objects=&object_ids=1042018%3A68c1dac440551c7ffd90ad88c0be8f2e&photo_tag_pids=" suda-data="key=feed_image_click&value=image_zoomin"><img  class="bigcursor" node-type="feed_list_media_bgimg" src="http://ww4.sinaimg.cn/thumbnail/633d71c5jw1emo2r7l1knj20c8118jvp.jpg" alt=""/><i style="display:none;" class="W_loading"></i></li>
+            </ul>
+                </div>
+        <div class="media_box">
+                                                         </div>
+</div>
+                            </div>
+                                                    <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                                        <div class="WB_func clearfix">
+    <div class="WB_handle W_fr" mid="3781067863395107">
+        <ul class="clearfix">
+                        <li><span class="line S_line1"><a bpfilter="page_frame" href="/1664971205/By0WCefdN?type=repost" class="S_txt2" action-history="rec=1" >转发 2002</a></span></li>
+            <li><span class="line S_line1"><a bpfilter="page_frame" href="/1664971205/By0WCefdN" class="S_txt2" >评论 413</a></span></li>
+            <li><span class="line S_line1"><a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781067863395107" title="赞"><span node-type="like_status"><i class="W_icon icon_praised_b"></i><em> 167</em></span></a></span></li>
+        </ul>
+    </div>
+    <div class="WB_from S_txt2">
+        <a class="S_txt2" target="_blank" href="/1664971205/By0WCefdN" title="2014-11-26 08:04" date="1416960290000" node-type="feed_list_item_date" >11月26日 08:04</a> 来自 <a class="S_txt2" action-type="app_source" target="_blank" href="http://weibo.com/" rel="nofollow">微博 weibo.com</a>    </div>
+</div>                                    </div>
+            </div>
+                                    <div class="WB_from S_txt2">
+                
+                <a name=3781073295249140 target="_blank" href="/1266321801/By15nm1xy?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-26 08:26" date="1416961584000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 11月26日 08:26</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&rootmid=3781067863395107&rootname=天气预报&rootuid=1664971205&rooturl=http://weibo.com/1664971205/By0WCefdN&url=http://weibo.com/1266321801/By15nm1xy&mid=3781073295249140&name=姚晨&uid=1266321801&domain=weather&pid=633d71c5jw1emo2r7l1knj20c8118jvp" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 958</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 444</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3781073295249140&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>4044</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div minfo="ru=2852761965&rm=3780886938191730" tbinfo="ouid=1266321801&rouid=2852761965" action-type="feed_list_item" diss-data=""  mid="3780920580945259" isForward="1"  omid="3780886938191730" class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3780920580945259&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" >
+                                    今天是11月25日，也是联合国发起的“消除对妇女的暴力行为国际日”。请加入我们，一起关注针对妇女的一切暴力行为。<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0c/ws_org.gif" title="[握手]" alt=    "[握手]" type="face" />                        </div>
+                                                <div class="WB_feed_expand">
+                <div class="W_arrow_bor W_arrow_bor_t"><i class="S_bg1_br"></i></div>
+                <div class="WB_expand S_bg1" node-type="feed_list_forwardContent">
+                                                                <div class="WB_info">
+                            <a node-type='feed_list_originNick' class="W_fb S_txt1" nick-name="Stella-McCartney" bpfilter="page_frame" href="/u/2852761965" title="Stella-McCartney" usercard="id=2852761965">@Stella-McCartney</a><a target="_blank" href="http://verified.weibo.com/verify"><i title= "微博机构认证" class="W_icon icon_approve_co"></i></a>                        </div>
+                        <div class="WB_text" node-type="feed_list_reason">
+                            感谢著名演员<a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E5%A7%9A%E6%99%A8?from=feed&loc=at" usercard="name=姚晨">@姚晨</a> 佩戴由Stella McCartney设计的白丝带徽章，提升公众对<a render="ext" class="a_topic" extra-data="type=topic" href="http://huati.weibo.com/k/%E7%99%BD%E4%B8%9D%E5%B8%A6%E5%A5%B3%E6%80%A7%E6%9D%83%E7%9B%8A%E6%B4%BB%E5%8A%A8?from=501">#白丝带女性权益活动#</a>的关注！了解更多信息，请关注开云基金会网站&gt; <a title="http://www.keringfoundation.org/" href="http://t.cn/R7jTcXE" target="_blank" mt="url" action-type="feed_list_url">http://t.cn/R7jTcXE</a> 和联合国主页 &gt;<a title="http://www.un.org/zh/events/endviolenceday/index.shtml" href="http://t.cn/RzbGa0f" target="_blank" mt="url" action-type="feed_list_url">http://t.cn/RzbGa0f</a> <a render="ext" extra-data="type=atname" href="http://weibo.com/n/Kering%E5%BC%80%E4%BA%91%E9%9B%86%E5%9B%A2?from=feed&loc=at" usercard="name=Kering开云集团">@Kering开云集团</a>                        </div>
+                                                                            <div node-type='feed_list_media_prev'>
+                                <!-- 该模板和media.phtml如此之相像……有时间的话可以合并之，需注意ifForward="1"，其他几乎相同 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+
+<!-- 特型广告feed -->
+                    <div class="WB_media_wrap clearfix">
+        <div class="media_box">
+                                     <!-- img之间不能加空格 -->
+                                            <ul class="WB_media_a WB_media_a_m1 clearfix">
+               <li class="WB_pic S_bg2 bigcursor" action-type="feed_list_media_img" action-data="uid=2852761965&mid=3780886938191730&pid=aa09b16djw1emnhz5ov7dj20xd1e00zp&pic_objects=&object_ids=1042018%3A6da65cf8f849eb9b1f9399112dea38af&photo_tag_pids=" suda-data="key=feed_image_click&value=image_zoomin"><img  class="bigcursor" node-type="feed_list_media_bgimg" src="http://ww2.sinaimg.cn/thumbnail/aa09b16djw1emnhz5ov7dj20xd1e00zp.jpg" alt=""/><i style="display:none;" class="W_loading"></i></li>
+            </ul>
+                                     </div>
+</div>
+                            </div>
+                                                    <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                                        <div class="WB_func clearfix">
+    <div class="WB_handle W_fr" mid="3780886938191730">
+        <ul class="clearfix">
+                        <li><span class="line S_line1"><a bpfilter="page_frame" href="/2852761965/BxWeNyn2G?type=repost" class="S_txt2" action-history="rec=1" >转发 904</a></span></li>
+            <li><span class="line S_line1"><a bpfilter="page_frame" href="/2852761965/BxWeNyn2G" class="S_txt2" >评论 45</a></span></li>
+            <li><span class="line S_line1"><a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3780886938191730" title="赞"><span node-type="like_status"><i class="W_icon icon_praised_b"></i><em> 357</em></span></a></span></li>
+        </ul>
+    </div>
+    <div class="WB_from S_txt2">
+        <a class="S_txt2" target="_blank" href="/2852761965/BxWeNyn2G" title="2014-11-25 20:05" date="1416917154000" node-type="feed_list_item_date" >11月25日 20:05</a> 来自 <a class="S_txt2" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>    </div>
+</div>                                    </div>
+            </div>
+                                    <div class="WB_from S_txt2">
+                
+                <a name=3780920580945259 target="_blank" href="/1266321801/BxX743XU7?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-25 22:19" date="1416925175000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 11月25日 22:19</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&rootmid=3780886938191730&rootname=Stella-McCartney&rootuid=2852761965&rooturl=http://weibo.com/2852761965/BxWeNyn2G&url=http://weibo.com/1266321801/BxX743XU7&mid=3780920580945259&name=姚晨&uid=1266321801&domain=2852761965&pid=aa09b16djw1emnhz5ov7dj20xd1e00zp" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 870</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 555</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3780920580945259&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>15908</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div minfo="ru=1642591402&rm=3780587951042240" tbinfo="ouid=1266321801&rouid=1642591402" action-type="feed_list_item" diss-data=""  mid="3780789630427763" isForward="1"  omid="3780587951042240" class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3780789630427763&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" >
+                                    好演员的专业与风度。<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d0/z2_org.gif" title="[赞]" alt=    "[赞]" type="face" /><img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6c/flower_org.gif" title="[鲜花]" alt=    "[鲜花]" type="face" />                        </div>
+                                                <div class="WB_feed_expand">
+                <div class="W_arrow_bor W_arrow_bor_t"><i class="S_bg1_br"></i></div>
+                <div class="WB_expand S_bg1" node-type="feed_list_forwardContent">
+                                                                <div class="WB_info">
+                            <a node-type='feed_list_originNick' class="W_fb S_txt1" nick-name="新浪娱乐" bpfilter="page_frame" href="/entpaparazzi" title="新浪娱乐" usercard="id=1642591402">@新浪娱乐</a><a target="_blank" href="http://verified.weibo.com/verify"><i title= "微博机构认证" class="W_icon icon_approve_co"></i></a>                        </div>
+                        <div class="WB_text" node-type="feed_list_reason">
+                            诺兰的蝙蝠侠系列主演克里斯蒂安·贝尔近日承认，他嫉妒新任蝙蝠侠本·阿弗莱克：“我觉得不再演蝙蝠侠是对的，但总会想再拍一部。所以得知另一人要演，我愣了足足半小时。但我都40了，本不该嫉妒。”但他还是给小本发了邮件，分享自己演的一些教训作提醒。这性格太像蝙蝠侠…详细：<a title="http://ent.sina.com.cn/m/f/2014-11-24/doc-iavxeafr5118853.shtml" href="http://t.cn/Rz4pDPu"  target="_blank" suda-data="key=tblog_feed_analyze&value=news_link" action-type="feed_list_url" >http://t.cn/Rz4pDPu<span class="W_ico16 icon_sw_new" title="新浪新闻"></span></a>                        </div>
+                                                                            <div node-type='feed_list_media_prev'>
+                                <!-- 该模板和media.phtml如此之相像……有时间的话可以合并之，需注意ifForward="1"，其他几乎相同 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+
+<!-- 特型广告feed -->
+                    <div class="WB_media_wrap clearfix">
+        <div class="media_box">
+                                     <!-- img之间不能加空格 -->
+                                                                                                <!-- 缩略图 -->
+                <div class="WB_pic_fold bigcursor" node-type="fl_pic_list" action-data="uid=1642591402&pic_ids=61e7f4aajw1emmjmy6vh5j20sg0lrtao,61e7f4aajw1emmjmy9b1uj20sg0exjuz,61e7f4aajw1emmjmygl9xj20sg0ixgn6&mid=3780587951042240&pic_objects=&object_ids=1042018%3Ad2db2bbb6659880f43593a2b3c30a5f6%2C1042018%3A38d60e5ec6b0801afa30c8d5289851b0%2C1042018%3A3a87f80e40076b335a9c77bb01effa6b&photo_tag_pids=">
+                        <div class="list_pic_bg S_bg2 S_line1">
+                            <div class="list_pic_innerbg S_bg2 S_line1">
+                                <div class="list_pic_inner S_bg2 S_line1">
+                                                                                                                                            <div class="img_box"><img src="http://ww2.sinaimg.cn/thumbnail/61e7f4aajw1emmjmy6vh5j20sg0lrtao.jpg" width="100" height="75" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold"></div>
+                                                                    </div>
+                            </div>
+                        </div>
+                      <span class="pic_count">3</span>
+                    </div>
+                </div>
+                <div class="media_box">
+                <!-- /缩略图 -->
+                                                             <ul class="WB_media_a WB_media_a_m1 clearfix">
+                <li class="WB_pic_app bigcursor">
+                                    <img src="http://service.mix.sina.com.cn/pic/p_34/s_105_120/H_Vu8CLxBNy6YUBw5k37meCsylZR4vPg1xR7spvnEszEeF1YKceXQARhk3424HKwcc4Kuax1tgwBdYFuU6WVviuxphL7vXPtB0W563CHIeQUDaYGUOYVhA667ttjmeITFy02z91WMCcUSOcsurOzk8yzU9tY7JfyAHfVCoEAkCDuqrqix.jpg" class="bigcursor" action-data="suda=key%3Dtblog_feed_analyze%26value%3Dnews_narrow_figure&title=%E8%B4%9D%E5%B0%94%E4%BB%8D%E6%83%B3%E6%BC%94%E8%9D%99%E8%9D%A0%E4%BE%A0%EF%BC%9A%E6%88%91%E5%AB%89%E5%A6%92%E6%96%B0%E4%BB%BB%E9%98%BF%E5%BC%97%E8%8E%B1%E5%85%8B&amp;short_url=http://t.cn/Rz4pDPu&amp;full_url=http%3A%2F%2Fent.sina.com.cn%2Fm%2Ff%2F2014-11-24%2Fdoc-iavxeafr5118853.shtml&amp;type=34" action-type="feed_list_third_rend"  suda-data="key=tblog_feed_analyze&value=news_link" />
+                            </li>
+            </ul>
+        <!--/标准接入app-->
+                    </div>
+</div>
+                            </div>
+                                                    <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                                        <div class="WB_func clearfix">
+    <div class="WB_handle W_fr" mid="3780587951042240">
+        <ul class="clearfix">
+                        <li><span class="line S_line1"><a bpfilter="page_frame" href="/1642591402/BxOsz4n8k?type=repost" class="S_txt2" action-history="rec=1" >转发 1573</a></span></li>
+            <li><span class="line S_line1"><a bpfilter="page_frame" href="/1642591402/BxOsz4n8k" class="S_txt2" >评论 345</a></span></li>
+            <li><span class="line S_line1"><a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3780587951042240" title="赞"><span node-type="like_status"><i class="W_icon icon_praised_b"></i><em> 1285</em></span></a></span></li>
+        </ul>
+    </div>
+    <div class="WB_from S_txt2">
+        <a class="S_txt2" target="_blank" href="/1642591402/BxOsz4n8k" title="2014-11-25 00:17" date="1416845870000" node-type="feed_list_item_date" >11月25日 00:17</a> 来自 <a class="S_txt2" action-type="app_source" target="_blank" href="http://weibo.com/" rel="nofollow">微博 weibo.com</a>    </div>
+</div>                                    </div>
+            </div>
+                                    <div class="WB_from S_txt2">
+                
+                <a name=3780789630427763 target="_blank" href="/1266321801/BxTHR1Nhp?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-25 13:39" date="1416893954000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 11月25日 13:39</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&rootmid=3780587951042240&rootname=新浪娱乐&rootuid=1642591402&rooturl=http://weibo.com/1642591402/BxOsz4n8k&url=http://weibo.com/1266321801/BxTHR1Nhp&mid=3780789630427763&name=姚晨&uid=1266321801&domain=entpaparazzi&pid=61e7f4aajw1emmjmy6vh5j20sg0lrtao" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 783</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 393</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3780789630427763&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>7253</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div minfo="ru=1644489953&rm=3780564580286039" tbinfo="ouid=1266321801&rouid=1644489953" action-type="feed_list_item" diss-data=""  mid="3780571753134515" isForward="1"  omid="3780564580286039" class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3780571753134515&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" >
+                                    想起了最亲爱的外婆，她也会做许多 小吃，什么米糕糖，白草冻，煎蛋卷，糯米糍粑。现如今，随着外婆的离去，那些最美好的滋味，都只能永存于记忆中了…<img src='http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8498.png' width="20px" height="20px">                        </div>
+                                                <div class="WB_feed_expand">
+                <div class="W_arrow_bor W_arrow_bor_t"><i class="S_bg1_br"></i></div>
+                <div class="WB_expand S_bg1" node-type="feed_list_forwardContent">
+                                                                <div class="WB_info">
+                            <a node-type='feed_list_originNick' class="W_fb S_txt1" nick-name="南方都市报" bpfilter="page_frame" href="/nddaily" title="南方都市报" usercard="id=1644489953">@南方都市报</a><a target="_blank" href="http://verified.weibo.com/verify"><i title= "微博机构认证" class="W_icon icon_approve_co"></i></a>                        </div>
+                        <div class="WB_text" node-type="feed_list_reason">
+                            【奶奶摆摊二十年没涨价 日赚30元很满足】近日，南昌桂旺巷程应青奶奶摆小摊位，二十年没涨价的故事吸引了不少人关注。她每天中午出摊，下午5点到7点再次出摊，大概一天能赚到30元。现在唯一的希望就是即将出台的公租房新政，希望能申请到一套公租房。图CFP 凤凰网<a title="http://t.cn/RzyYFLv" href="http://t.cn/RzyYFLv" target="_blank" action-type="feed_list_url">http://t.cn/RzyYFLv</a>                        </div>
+                                                                            <div node-type='feed_list_media_prev'>
+                                <!-- 该模板和media.phtml如此之相像……有时间的话可以合并之，需注意ifForward="1"，其他几乎相同 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+
+<!-- 特型广告feed -->
+                    <div class="WB_media_wrap clearfix">
+        <div class="media_box">
+                                     <!-- img之间不能加空格 -->
+                                                                                                <!-- 九宫格 -->
+                <div node-type="fl_pic_list" action-data="uid=1644489953&pic_ids=6204ece1gw1emmgqko049j20qe0j1whd,6204ece1gw1emmgql5ej7j20qm0jatb6,6204ece1gw1emmgqlt26fj20hr0sgdi8,6204ece1gw1emmgqmmr8yj20qe0kataf,6204ece1gw1emmgqn4468j20qe0j7wi8,6204ece1gw1emmgqnngbrj20qe0je774,6204ece1gw1emmgqomr9sj20qe0k3gnh,6204ece1gw1emmgqoyhqwj20qe0hr40s,6204ece1gw1emmgqpj2jxj20qg0iptb6&mid=3780564580286039&pic_objects=&object_ids=1042018%3Add84a6e0f34ea0fe1a869c5ce2d47b80%2C1042018%3A8104232d8433d6035e6c15fbbcc7e5b1%2C1042018%3Ac5b582dbaa753ab6c1c5600ec1c04c0e%2C1042018%3A034181c6f383bf2d686dfe7b3171748f%2C1042018%3Ad7d4b1fee44c72c507a2eca4c4b4c143%2C1042018%3A6619cf181cdda9eabb85fca4e53b6374%2C1042018%3Ad0fe0ffb2185b7ada4b0a1728ce6da9f%2C1042018%3A4aa40562f15c2908d06c68de150fd5b7%2C1042018%3Aaa5cd17ad021583a6df90d64aef7f8de&photo_tag_pids=">
+                    <ul class="WB_media_a WB_media_a_mn  WB_media_a_m9 clearfix">
+                                                                                <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww4.sinaimg.cn/square/6204ece1gw1emmgqko049j20qe0j1whd.jpg" action-data="pic_id=6204ece1gw1emmgqko049j20qe0j1whd" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww4.sinaimg.cn/square/6204ece1gw1emmgql5ej7j20qm0jatb6.jpg" action-data="pic_id=6204ece1gw1emmgql5ej7j20qm0jatb6" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww3.sinaimg.cn/square/6204ece1gw1emmgqlt26fj20hr0sgdi8.jpg" action-data="pic_id=6204ece1gw1emmgqlt26fj20hr0sgdi8" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww4.sinaimg.cn/square/6204ece1gw1emmgqmmr8yj20qe0kataf.jpg" action-data="pic_id=6204ece1gw1emmgqmmr8yj20qe0kataf" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/6204ece1gw1emmgqn4468j20qe0j7wi8.jpg" action-data="pic_id=6204ece1gw1emmgqn4468j20qe0j7wi8" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/6204ece1gw1emmgqnngbrj20qe0je774.jpg" action-data="pic_id=6204ece1gw1emmgqnngbrj20qe0je774" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/6204ece1gw1emmgqomr9sj20qe0k3gnh.jpg" action-data="pic_id=6204ece1gw1emmgqomr9sj20qe0k3gnh" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww2.sinaimg.cn/square/6204ece1gw1emmgqoyhqwj20qe0hr40s.jpg" action-data="pic_id=6204ece1gw1emmgqoyhqwj20qe0hr40s" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww3.sinaimg.cn/square/6204ece1gw1emmgqpj2jxj20qg0iptb6.jpg" action-data="pic_id=6204ece1gw1emmgqpj2jxj20qg0iptb6" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                                    </ul>
+                </div>
+                                <!-- /九宫格 -->
+                                         </div>
+</div>
+                            </div>
+                                                    <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                                        <div class="WB_func clearfix">
+    <div class="WB_handle W_fr" mid="3780564580286039">
+        <ul class="clearfix">
+                        <li><span class="line S_line1"><a bpfilter="page_frame" href="/1644489953/BxNQS1cpx?type=repost" class="S_txt2" action-history="rec=1" >转发 8108</a></span></li>
+            <li><span class="line S_line1"><a bpfilter="page_frame" href="/1644489953/BxNQS1cpx" class="S_txt2" >评论 1537</a></span></li>
+            <li><span class="line S_line1"><a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3780564580286039" title="赞"><span node-type="like_status"><i class="W_icon icon_praised_b"></i><em> 5993</em></span></a></span></li>
+        </ul>
+    </div>
+    <div class="WB_from S_txt2">
+        <a class="S_txt2" target="_blank" href="/1644489953/BxNQS1cpx" title="2014-11-24 22:44" date="1416840298000" node-type="feed_list_item_date" >11月24日 22:44</a> 来自 <a class="S_txt2" action-type="app_source" target="_blank" href="http://weibo.com/" rel="nofollow">微博 weibo.com</a>    </div>
+</div>                                    </div>
+            </div>
+                                    <div class="WB_from S_txt2">
+                
+                <a name=3780571753134515 target="_blank" href="/1266321801/BxO2rd9qH?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-24 23:13" date="1416842007000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 11月24日 23:13</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&rootmid=3780564580286039&rootname=南方都市报&rootuid=1644489953&rooturl=http://weibo.com/1644489953/BxNQS1cpx&url=http://weibo.com/1266321801/BxO2rd9qH&mid=3780571753134515&name=姚晨&uid=1266321801&domain=nddaily&pid=6204ece1gw1emmgqko049j20qe0j1whd" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 4955</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 1838</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3780571753134515&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>28016</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div minfo="ru=1266321801&rm=3780389816583505" tbinfo="ouid=1266321801&rouid=1266321801" action-type="feed_list_item" diss-data=""  mid="3780392081855179" isForward="1"  omid="3780389816583505" class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3780392081855179&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" >
+                                    回复<a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E5%96%B5%E6%98%9F%E7%90%83%E7%9A%84%E7%8B%97%E4%B8%8D%E7%90%86?from=feed&loc=at" usercard="name=喵星球的狗不理">@喵星球的狗不理</a>:右边你赢了，正能量害死人…<img src='http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee88b1.png' width="20px" height="20px"><img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" title="[泪]" alt=    "[泪]" type="face" />//<a render="ext" extra-data="type=atname" href="http://weibo.com/n/%E5%96%B5%E6%98%9F%E7%90%83%E7%9A%84%E7%8B%97%E4%B8%8D%E7%90%86?from=feed&loc=at" usercard="name=喵星球的狗不理">@喵星球的狗不理</a>:不打算归还给失主么？<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" title="[偷笑]" alt=    "[偷笑]" type="face" />这么写才对：“喜悦之情犹如平白无故捡了个大钱包后费劲千辛万苦找到失主一般！”要传播正能量嘛~~<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" title="[哈哈]" alt=    "[哈哈]" type="face" />                        </div>
+                                                <div class="WB_feed_expand">
+                <div class="W_arrow_bor W_arrow_bor_t"><i class="S_bg1_br"></i></div>
+                <div class="WB_expand S_bg1" node-type="feed_list_forwardContent">
+                                                                <div class="WB_info">
+                            <a node-type='feed_list_originNick' class="W_fb S_txt1" nick-name="姚晨" bpfilter="page_frame" href="/yaochen" title="姚晨" usercard="id=1266321801">@姚晨</a><a target="_blank" href="http://verified.weibo.com/verify"><i title= "微博个人认证 " class="W_icon icon_approve"></i></a><a  title="微博会员" target="_blank" href="http://vip.weibo.com/personal?from=main" action-type="ignore_list"suda-uatrack="key=profile_head&value=member_guest"><em class="W_icon icon_member6"></em></a>                        </div>
+                        <div class="WB_text" node-type="feed_list_reason">
+                            早上醒来一拉窗帘，阳光刺目。预告中的五日雾霾，居然没有持续，心情喜悦得像平白无故捡了个大钱包！<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif" title="[太开心]" alt=    "[太开心]" type="face" /><img src='http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8c85.png' width="20px" height="20px"><img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif" title="[太阳]" alt=    "[太阳]" type="face" />                        </div>
+                                                                            <div node-type='feed_list_media_prev'>
+                                <!-- 该模板和media.phtml如此之相像……有时间的话可以合并之，需注意ifForward="1"，其他几乎相同 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+
+<!-- 特型广告feed -->
+                    <div class="WB_media_wrap clearfix">
+        <div class="media_box">
+                                     <!-- img之间不能加空格 -->
+                                            <ul class="WB_media_a WB_media_a_m1 clearfix">
+               <li class="WB_pic S_bg2 bigcursor" action-type="feed_list_media_img" action-data="uid=1266321801&mid=3780389816583505&pid=4b7a8989jw1emlwn563wrj21e01e0h3i&pic_objects=&object_ids=1042018%3A89c77fd6165b013b451f40e78d527718&photo_tag_pids=" suda-data="key=feed_image_click&value=image_zoomin"><img  class="bigcursor" node-type="feed_list_media_bgimg" src="http://ww4.sinaimg.cn/thumbnail/4b7a8989jw1emlwn563wrj21e01e0h3i.jpg" alt=""/><i style="display:none;" class="W_loading"></i></li>
+            </ul>
+                                     </div>
+</div>
+                            </div>
+                                                    <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                                        <div class="WB_func clearfix">
+    <div class="WB_handle W_fr" mid="3780389816583505">
+        <ul class="clearfix">
+                        <li><span class="line S_line1"><a bpfilter="page_frame" href="/1266321801/BxJiZrCFz?type=repost" class="S_txt2" action-history="rec=1" >转发 862</a></span></li>
+            <li><span class="line S_line1"><a bpfilter="page_frame" href="/1266321801/BxJiZrCFz" class="S_txt2" >评论 1119</a></span></li>
+            <li><span class="line S_line1"><a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3780389816583505" title="赞"><span node-type="like_status"><i class="W_icon icon_praised_b"></i><em> 20439</em></span></a></span></li>
+        </ul>
+    </div>
+    <div class="WB_from S_txt2">
+        <a class="S_txt2" target="_blank" href="/1266321801/BxJiZrCFz" title="2014-11-24 11:10" date="1416798631000" node-type="feed_list_item_date" >11月24日 11:10</a> 来自 <a class="S_txt2" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>    </div>
+</div>                                    </div>
+            </div>
+                                    <div class="WB_from S_txt2">
+                
+                <a name=3780392081855179 target="_blank" href="/1266321801/BxJmE7MCf?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-24 11:19" date="1416799171000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 11月24日 11:19</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&rootmid=3780389816583505&rootname=姚晨&rootuid=1266321801&rooturl=http://weibo.com/1266321801/BxJiZrCFz&url=http://weibo.com/1266321801/BxJmE7MCf&mid=3780392081855179&name=姚晨&uid=1266321801&domain=yaochen&pid=4b7a8989jw1emlwn563wrj21e01e0h3i" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 364</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 427</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3780392081855179&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>7940</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div  tbinfo="ouid=1266321801" action-type="feed_list_item" diss-data=""  mid="3780389816583505"  class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3780389816583505&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" nick-name="姚晨">
+                                    早上醒来一拉窗帘，阳光刺目。预告中的五日雾霾，居然没有持续，心情喜悦得像平白无故捡了个大钱包！<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/mb_org.gif" title="[太开心]" alt=    "[太开心]" type="face" /><img src='http://img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8c85.png' width="20px" height="20px"><img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/sun.gif" title="[太阳]" alt=    "[太阳]" type="face" />                        </div>
+                                                            <!-- 引用文件时，必须对midia_info赋值 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+                <div class="WB_media_wrap clearfix" node-type="feed_list_media_prev">
+              <div class="media_box">
+                                                    <!-- img之间不能加空格 -->
+                                                            <ul class="WB_media_a WB_media_a_m1 clearfix">
+            <li class="WB_pic S_bg1 bigcursor" action-type="feed_list_media_img" action-data="uid=1266321801&mid=3780389816583505&pid=4b7a8989jw1emlwn563wrj21e01e0h3i&pic_objects=&object_ids=1042018%3A89c77fd6165b013b451f40e78d527718&photo_tag_pids=" suda-data="key=feed_image_click&value=image_zoomin"><img  class="bigcursor" node-type="feed_list_media_bgimg" src="http://ww4.sinaimg.cn/thumbnail/4b7a8989jw1emlwn563wrj21e01e0h3i.jpg" alt=""/><i style="display:none;" class="W_loading"></i></li> 
+            </ul>
+                                            </div>
+</div>
+                        <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                            <div class="WB_from S_txt2">
+                
+                <a name=3780389816583505 target="_blank" href="/1266321801/BxJiZrCFz?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-24 11:10" date="1416798631000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 11月24日 11:10</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&url=http://weibo.com/1266321801/BxJiZrCFz&mid=3780389816583505&name=姚晨&uid=1266321801&domain=yaochen&pid=4b7a8989jw1emlwn563wrj21e01e0h3i" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 862</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 1119</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3780389816583505&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>20439</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                         <div minfo="ru=1749990115&rm=3780365287731834" tbinfo="ouid=1266321801&rouid=1749990115" action-type="feed_list_item" diss-data=""  mid="3780383109947979" isForward="1"  omid="3780365287731834" class="WB_cardwrap WB_feed_type S_bg2 ">
+        <div class="WB_feed_detail clearfix">
+                <div class="WB_screen W_fr">
+    <div class="screen_box"><a href="javascript:void(0);" action-type="fl_menu"><i class="W_ficon ficon_arrow_down S_ficon">c</i></a>
+        <div class="layer_menu_list" style="display: none; position: absolute; z-index: 999;" node-type="fl_menu_right">
+            <ul>
+                                                            <li>
+                            <span class="hover">
+                                                                                                <a href="javascript:void(0);"  onclick="javascript:window.open('http://service.account.weibo.com/reportspam?rid=3780383109947979&from=10106&type=1&url=%2Fyaochen&bottomnav=1&wvr=5', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');">举报</a>
+                                                                                            </span>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>        <div class="WB_detail">
+            <div class="WB_text W_f14" node-type="feed_list_content" >
+                                    平凡而伟大。<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/91/lazu_org.gif" title="[蜡烛]" alt=    "[蜡烛]" type="face" />                        </div>
+                                                <div class="WB_feed_expand">
+                <div class="W_arrow_bor W_arrow_bor_t"><i class="S_bg1_br"></i></div>
+                <div class="WB_expand S_bg1" node-type="feed_list_forwardContent">
+                                                                <div class="WB_info">
+                            <a node-type='feed_list_originNick' class="W_fb S_txt1" nick-name="北京青年报" bpfilter="page_frame" href="/bjyouth" title="北京青年报" usercard="id=1749990115">@北京青年报</a><a target="_blank" href="http://verified.weibo.com/verify"><i title= "微博机构认证" class="W_icon icon_approve_co"></i></a>                        </div>
+                        <div class="WB_text" node-type="feed_list_reason">
+                            【64岁老人救人牺牲 所在志愿队1年多救200人<img render="ext" src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/91/lazu_org.gif" title="[蜡烛]" alt=    "[蜡烛]" type="face" />】日前，武汉64岁的陈忠贵和另外6名冬泳队员，在长江救起3名青年后，老陈因体力不支而牺牲。陈忠贵所在救援志愿队，平均年龄近55岁，17个月救200多人。遇难后，老伴一遍遍念叨：“他一直惦念抱孙子，可惜再也等不到了。”转发，送别英雄！（人民日报）                        </div>
+                                                                            <div node-type='feed_list_media_prev'>
+                                <!-- 该模板和media.phtml如此之相像……有时间的话可以合并之，需注意ifForward="1"，其他几乎相同 -->
+
+<!-- 微博心情，独立于标准的ul节点 -->
+
+<!-- 特型广告feed -->
+                    <div class="WB_media_wrap clearfix">
+        <div class="media_box">
+                                     <!-- img之间不能加空格 -->
+                                                                                                <!-- 九宫格 -->
+                <div node-type="fl_pic_list" action-data="uid=1749990115&pic_ids=684ebae3jw1emls3rzzfcj20c8089t9v,684ebae3jw1emls3t2eqoj20b407sab9,684ebae3jw1emls3tp4rwj20c80963zc,684ebae3jw1emls3usexlj20b1079q49&mid=3780365287731834&pic_objects=&object_ids=1042018%3A29f2027e65073e9afd1ef8baafdae054%2C1042018%3A5e73233d167b4c103fa2a002de0530b4%2C1042018%3A7466809b6adc16e6297aacaa7ccdf99d%2C1042018%3A85dcd47cfeb45b227e6659a9d08f02d5&photo_tag_pids=">
+                    <ul class="WB_media_a WB_media_a_mn WB_media_a_m4 clearfix">
+                                                                                <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/684ebae3jw1emls3rzzfcj20c8089t9v.jpg" action-data="pic_id=684ebae3jw1emls3rzzfcj20c8089t9v" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/684ebae3jw1emls3t2eqoj20b407sab9.jpg" action-data="pic_id=684ebae3jw1emls3t2eqoj20b407sab9" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww3.sinaimg.cn/square/684ebae3jw1emls3tp4rwj20c80963zc.jpg" action-data="pic_id=684ebae3jw1emls3tp4rwj20c80963zc" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                    <li class="WB_pic S_bg2 bigcursor">
+                            <img class="bigcursor" src="http://ww1.sinaimg.cn/square/684ebae3jw1emls3usexlj20b1079q49.jpg" action-data="pic_id=684ebae3jw1emls3usexlj20b1079q49" action-type="fl_pics" suda-uatrack="key=tblog_newimage_feed&value=image_feed_unfold">                        </li>
+                                                                                                                    </ul>
+                </div>
+                                <!-- /九宫格 -->
+                                         </div>
+</div>
+                            </div>
+                                                    <div class="WB_expand_media_box" style="display: none;" node-type="feed_list_media_disp"></div>
+                                                                        <div class="WB_func clearfix">
+    <div class="WB_handle W_fr" mid="3780365287731834">
+        <ul class="clearfix">
+                        <li><span class="line S_line1"><a bpfilter="page_frame" href="/1749990115/BxIFqwrp0?type=repost" class="S_txt2" action-history="rec=1" >转发 3004</a></span></li>
+            <li><span class="line S_line1"><a bpfilter="page_frame" href="/1749990115/BxIFqwrp0" class="S_txt2" >评论 247</a></span></li>
+            <li><span class="line S_line1"><a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3780365287731834" title="赞"><span node-type="like_status"><i class="W_icon icon_praised_b"></i><em> 606</em></span></a></span></li>
+        </ul>
+    </div>
+    <div class="WB_from S_txt2">
+        <a class="S_txt2" target="_blank" href="/1749990115/BxIFqwrp0" title="2014-11-24 09:33" date="1416792783000" node-type="feed_list_item_date" >11月24日 09:33</a> 来自 <a class="S_txt2" action-type="app_source" target="_blank" href="http://weibo.com/" rel="nofollow">微博 weibo.com</a>    </div>
+</div>                                    </div>
+            </div>
+                                    <div class="WB_from S_txt2">
+                
+                <a name=3780383109947979 target="_blank" href="/1266321801/BxJ8aFJVh?from=page_1003061266321801_profile&wvr=6&mod=weibotime" title="2014-11-24 10:43" date="1416797031000" class="S_txt2" node-type="feed_list_item_date" suda-data="key=tblog_home_new&value=feed_time"> 11月24日 10:43</a> 来自 <a class="S_txt2" suda-uatrack="key=profile_feed&value=pubfrom_guest" action-type="app_source" target="_blank" href="http://app.weibo.com/t/feed/3G5oUM" rel="nofollow">iPhone 5s</a>            </div>
+        </div>
+    </div>
+    
+    <div class="WB_feed_handle" node-type="feed_list_options">
+        <div class="WB_handle">
+            <ul class="WB_row_line WB_row_r4 clearfix S_line2">
+                            <li>
+                    <a class="S_txt2" suda-uatrack="key=profile_feed&value=collect_guest" href="javascript:void(0);" diss-data="fuid=1266321801" action-type="fl_favorite"  ><span class="pos"><span class="line S_line1">收藏</span></span></a>
+                </li>
+                                        <li>
+                    <a  action-data="allowForward=1&rootmid=3780365287731834&rootname=北京青年报&rootuid=1749990115&rooturl=http://weibo.com/1749990115/BxIFqwrp0&url=http://weibo.com/1266321801/BxJ8aFJVh&mid=3780383109947979&name=姚晨&uid=1266321801&domain=bjyouth&pid=684ebae3jw1emls3rzzfcj20c8089t9v" action-type="fl_forward" action-history="rec=1"  href="javascript:void(0);" class="S_txt2" suda-uatrack="key=profile_feed&value=transfer"><span class="pos"><span class="line S_line1" node-type="forward_btn_text">转发 2429</span></span></a>
+                    <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+                </li>
+                        <li>
+                                    <a href="javascript:void(0);" class="S_txt2" action-type="fl_comment" action-data="ouid=1266321801&location=profile&comment_type=1" suda-uatrack="key=profile_feed&value=comment"><span class="pos"><span class="line S_line1">评论 693</span></span></a>
+                                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="S_txt2" action-type="fl_like" action-data="version=mini&qid=heart&mid=3780383109947979&loc=profile" title="赞" suda-uatrack="key=profile_feed&value=like"><span class="pos"><span class="line S_line1"><span node-type="like_status"><i class="W_icon icon_praised_b"></i> <em>13602</em></span></span></span></a>
+                <span class="arrow"><span class="W_arrow_bor W_arrow_bor_t"><i class="S_line1"></i><em class="S_bg1_br"></em></span></span>
+            </li>
+            </ul>
+        </div>
+    </div>
+            <div node-type="feed_list_repeat" class="WB_feed_repeat S_bg1" style="display:none;"></div>
+    </div>                    <div class="WB_cardwrap S_bg2">
+            <div class="WB_empty" node-type="lazyload">
+                <div class="WB_innerwrap">
+                    <div class="empty_con clearfix">
+                        <p class="text S_txt2"><i class="W_loading"></i>正在加载中，请稍候...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+           
+    
+    <!--翻页-->
+                        
+    <!--/翻页-->   
+      
+</div>
+         
+        </div>
+    
+2014-11-28 23:27:25,331 [main] INFO  [com.weibo.sina.cookie.person.v2.GrabPersonInfoV2] - http://www.weibo.com/yaochen OPEN ERROR !

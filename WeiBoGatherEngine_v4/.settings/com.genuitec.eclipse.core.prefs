@@ -1,0 +1,4 @@
+#Wed May 22 10:16:19 CST 2013
+eclipse.preferences.version=1
+validator.Checked=resources/applicationContext-mongoDB.xml
+validator.Unchecked=
